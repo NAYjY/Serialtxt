@@ -1,0 +1,8 @@
+c:\users\nayjy\documents\visual studio 2015\Projects\Serialtxt\Serialtxt\bin\Debug\Serialtxt.exe.config
+c:\users\nayjy\documents\visual studio 2015\Projects\Serialtxt\Serialtxt\bin\Debug\Serialtxt.exe
+c:\users\nayjy\documents\visual studio 2015\Projects\Serialtxt\Serialtxt\bin\Debug\Serialtxt.pdb
+c:\users\nayjy\documents\visual studio 2015\Projects\Serialtxt\Serialtxt\obj\Debug\Serialtxt.Form1.resources
+c:\users\nayjy\documents\visual studio 2015\Projects\Serialtxt\Serialtxt\obj\Debug\Serialtxt.Properties.Resources.resources
+c:\users\nayjy\documents\visual studio 2015\Projects\Serialtxt\Serialtxt\obj\Debug\Serialtxt.csproj.GenerateResource.Cache
+c:\users\nayjy\documents\visual studio 2015\Projects\Serialtxt\Serialtxt\obj\Debug\Serialtxt.exe
+c:\users\nayjy\documents\visual studio 2015\Projects\Serialtxt\Serialtxt\obj\Debug\Serialtxt.pdb
